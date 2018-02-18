@@ -1,4 +1,4 @@
-package moeny;
+package money;
 
 class Money {
 	protected int amount;
